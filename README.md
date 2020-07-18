@@ -1,7 +1,7 @@
 # number-to-word-persian
 convert number to persian words <br>
 برای تبدیل اعداد صحیح به حروف فارسی میتوانید از این سرویس استفاده کنید <br>
-که اعداد منفی و مثبت تا ۹۰۰ بیلیارد را پشتیبانی میکند
+که اعداد منفی و مثبت تا ۹۹۹ بیلیارد را پشتیبانی میکند
 
 for use in node.js => import "numToWord.js" file in "forNode" folder<br>
 for use in html files in browser => use "numToWord.js" script in "forHtml" folder<br>
